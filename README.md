@@ -18,8 +18,7 @@ Para instalar y ejecutar la aplicación, sigue estos pasos:
 1. **Clona el repositorio**:
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd app-tareas
+   git clone https://github.com/isGregoDev/app-tareas.git
    ```
 
 2. **Instala las dependencias**:
